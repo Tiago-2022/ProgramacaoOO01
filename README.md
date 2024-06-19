@@ -13,7 +13,7 @@ Desenvolva uma classe que utilize a classe Scanner para receber o valor de um pr
 
 Crie uma classe que utilize a JOptionPane para entrada de dados. Receba o valor de transação de um imóvel, o valor venal e a porcentagem do imposto ITBI. Calcule o imposto com base no maior valor entre o valor de transação e o valor venal.
 
-3.Sistema de Avaliação
+3. Sistema de Avaliação
 
 Utilizando JOptionPane, desenvolva uma classe que receba as notas de duas provas e de um trabalho. Calcule e mostre a média e indique se o aluno está aprovado (média >= 6) ou reprovado.
 
